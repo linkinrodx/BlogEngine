@@ -73,7 +73,9 @@ All the posts follow a flow state (depending of the post state, you can use some
 5. Published
 6. Deleted
 
-## When you load the project, you'll can se the openapi documentation (swagger) and there are some images in the image folder where you can see how to use it
+```
+When you load the project, you'll see the openapi documentation (swagger). There are some example images in the image folder where you can see how to use it
+```
 
 If you have any question, remember to contact me sending me a message
 
