@@ -64,7 +64,7 @@ With these users you can request for all the endpoints (use the users in securit
 
 ## An aditional point (Post Flow)
 
-All the posts follow a flow state
+All the posts follow a flow state (depending of the post state, you can use some endpoints)
 
 1. Created
 2. Submitted
