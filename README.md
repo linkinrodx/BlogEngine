@@ -38,6 +38,7 @@ Here you can login and generate a security token
 
 These are all the endpoints, to use these you must add the authorization header request (add the token created before)
 
+```
 - All Roles
 [Get]   GetListPost
 
@@ -51,6 +52,7 @@ These are all the endpoints, to use these you must add the authorization header 
 [Get]   GetListPostSubmmited
 [Put]   ApprovePost
 [Put]   RejectPost
+```
 
 ## Test Users
 
